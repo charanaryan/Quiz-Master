@@ -1,4 +1,4 @@
-# QuizMasterEdu_Infosys_Internship_Apr2025_Team_07
+# Quiz Master
 
 This project is an educational quiz platform designed to track student learning through subjects, topics, and quizzes. Instructors can create and manage quizzes, while students can attempt quizzes and view detailed analytics.
 
@@ -16,7 +16,7 @@ This project is an educational quiz platform designed to track student learning 
 
 ## Project Overview
 
-QuizMasterEdu is an interactive quiz application for students and instructors. Instructors can create subjects, topics, and quizzes with detailed questions, and students can attempt quizzes, view scores, and analyze performance using graphs and reports. The system includes role-based dashboards, real-time score tracking, and result email notifications.
+Quiz Master is an interactive quiz application for students and instructors. Instructors can create subjects, topics, and quizzes with detailed questions, and students can attempt quizzes, view scores, and analyze performance using graphs and reports. The system includes role-based dashboards, real-time score tracking, and result email notifications.
 
 ## Project Structure
 
